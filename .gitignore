@@ -1,0 +1,21 @@
+# Node artifact files
+node_modules/
+dist/
+
+# Log files
+*.log
+
+#Env variables
+cypress.env.json
+
+#Node modules
+node_modules/
+
+#Report
+cypress/cucumberReport.js
+cypress/cucumber-json
+cypress/cucumber-report 
+
+#logs
+cypress/screenshots
+cypress/videos

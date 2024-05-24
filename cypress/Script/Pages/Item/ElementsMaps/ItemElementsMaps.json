@@ -1,0 +1,23 @@
+{
+    "ItemPageLocators": {
+        "campoTipoItem": ".p-card-content .form-group:contains('Tipo do Item')",
+        "autocompleteDropdown": ".p-autocomplete-dropdown",
+        "dropdownButton": "div[role='button']",
+        "listboxOptions": "ul[role='listbox'] li[role='option']",
+        "dropdownItem": "p-dropdownitem",
+        "headerForm": "header-form",
+        "dropdown": ".dropdown",
+        "dropdownHelp": "#dropdown-help",
+        "dialogFooter": ".p-dialog-footer",
+        "toastMessage": ".p-toast-message",
+        "appHeaderGrid": "app-header-grid",
+        "button": "button",
+        "cardContent": ".p-card-content",
+        "label": "label",
+        "input": "input",
+        "tableBodyLine": ".table-body-line",
+        "ellipsis": "ellipsis ng-star-inserted",
+        "checkBox": ".p-checkbox > .p-checkbox-box",
+        "codigoFormat": ".codigo-format"
+    }
+}

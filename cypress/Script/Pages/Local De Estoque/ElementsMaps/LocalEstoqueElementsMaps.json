@@ -1,0 +1,7 @@
+{
+    "LocalEstoqueLocators": {
+        "FormContainer": ".p-card-content",
+        "CidadeInput": "input#cidade",
+        "EnderecoInput": "input#endereco"
+    }
+}
